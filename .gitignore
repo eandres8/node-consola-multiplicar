@@ -2,3 +2,4 @@
 /tablas
 
 package-lock.json
+*.html
